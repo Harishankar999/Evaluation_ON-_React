@@ -1,0 +1,12 @@
+.tasks {
+  /* sample */
+  display: flex;
+  gap: 40px;
+}
+
+.empty {
+  /* sample */
+}
+.underlined{
+  text-decoration:line-through;
+}
